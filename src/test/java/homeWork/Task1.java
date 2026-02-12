@@ -21,5 +21,10 @@ public class Task1 {
         } else{
             System.out.println(" a > b - если переменная b меньше a");
         }
+
+        /*
+
+
+         */
     }
 }
